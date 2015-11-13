@@ -1,4 +1,4 @@
-# Lights
+# Shadows
 [Play](http://pmuessig.github.io/Shadows/)
 
 ## Developing
