@@ -3,3 +3,14 @@ body {
   height: 100%;
   width: 100%;
 }
+.main-container {
+  background-image: url("../images/stones.png");
+  background-repeat: repeat-y repeat-x;
+}
+.passage {
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 72px;
+  display: block;
+  margin-top: 40px;
+  padding: 40px 80px;
+}
